@@ -50,7 +50,7 @@ For a valid stroke action, the data primarily consists of `Info`, `Label`, `Data
 
 |Field|Description|
 |-|-|
-|positionX|`Impact Location` x coordinate [-0.5, 0.5]|
+|positionX|`Impact Location` x coordinate [-1, 1]|
 |positionY|`Impact Location` y coordinate [0, 1]|
 |actionType|`Stroke Type`|
 |actionEval|`Stroke Quality Rating` provided by 7 experienced players|
